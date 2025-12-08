@@ -1,0 +1,5 @@
+During this week, I used AI mostly for final project work and revisited some key OOP ideas from previous modules and which include Inheritance, Composition, and architectural trade-offs.
+AI helped me rephrase requirements in my own words, create a high-level design of the implementation plan, and verify that my design/implementation decisions allow adjusting course goals to flexibility and maintainability by asking AI what refactors they suggest to improve my code quality and code reusability.
+I also used AI to generate questions to answer them and check the understanding of “is-a” vs. “has-a” and when to favour composition in real-world designs. used it to draft explanations of why specific class structures are chosen in the design, and how it allows for easier change in the future in the system description as well.
+AI was primarily used for a research partner to plan and review the design this week, not to do the actual work, i.e., design and documentation.
+
